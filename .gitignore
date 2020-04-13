@@ -1,3 +1,9 @@
+train/
+dev/
+test/
+dump.zip
+*.crfsuite
+train.zip
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
